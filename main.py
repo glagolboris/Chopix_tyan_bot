@@ -98,6 +98,9 @@ class Bot:
                     sticker = open('stickers/sticker3.webp', 'rb')
                     self.bot.send_sticker(message.chat.id, sticker)
 
+            else:
+                print('say')
+
 
 while True:
     try:
