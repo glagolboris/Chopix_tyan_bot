@@ -10,7 +10,6 @@ pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0
 silero==0.4.0
 simplegeneric==0.8.1
-sip==4.19.13
 sounddevice==0.4.4
 telegram==0.0.1
 tenacity==8.0.1
