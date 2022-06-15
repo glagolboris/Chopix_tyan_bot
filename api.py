@@ -1,1 +1,1 @@
-tok = '5457524162:AAHHJ8wzEXo5KAvRASc2EoBOAiVYlxIfwFo'
+tok = 'your-api'
