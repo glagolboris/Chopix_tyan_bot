@@ -49,7 +49,7 @@ class Bot:
     def __init__(self):
         self.assistant = Assistant()
         self.bot = telebot.TeleBot(token=token.tok)
-        self.chopix_id = '-1001669424655'
+        self.chopix_id = ''
         self.handler()
 
     def handler(self):
